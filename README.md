@@ -1,2 +1,2 @@
-[# Aminul]
-(https://aminulislamhasan.github.io/Aminul/)
+
+https://aminulislamhasan.github.io/Aminul/
